@@ -1,8 +1,6 @@
 
   # Yep AI Marketing Studio
 
-  This is a code bundle for Yep AI Marketing Studio. The original project is available at https://www.figma.com/design/IMBRP23uYi0uSnIXEzLKYt/Yep-AI-Marketing-Studio.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
